@@ -1,0 +1,15 @@
+@import url(//db.onlinewebfonts.com/c/b86c0f3afb7b6eb1952be1d4c753140c?family=Al-Jazeera-Arabic-Regular);
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  font-family: 'Al-Jazeera-Arabic-Regular', sans-serif;
+}
+:root {
+  --blue-crayola: #367CFFff;
+  --smoky-black: #0F0F0Fff;
+  --blue-crayola-2: #30C5D2;
+  /* #357AFBff */
+  --platinum: #E9E9EAff;
+  --white: #FDFDFDff;
+  }
